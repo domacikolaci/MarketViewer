@@ -12,7 +12,6 @@ Public Class frmMain
         'Load frmCrypto
         frmCrypto.Show()
     End Sub
-
     Private Sub btnAbout_Click(sender As Object, e As EventArgs) Handles btnAbout.Click
         'Load frmAbout
         frmAbout.Show()
