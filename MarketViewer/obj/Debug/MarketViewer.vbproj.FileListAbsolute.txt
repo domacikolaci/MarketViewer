@@ -1,1 +1,11 @@
 E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe.config
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.pdb
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.xml
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.vbprojResolveAssemblyReference.cache
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmMain.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.Resources.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.vbproj.GenerateResource.Cache
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb
