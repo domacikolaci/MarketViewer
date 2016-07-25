@@ -22,44 +22,44 @@ Partial Class frmStock
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.txtStockSearch = New System.Windows.Forms.TextBox()
-        Me.btnSearch = New System.Windows.Forms.Button()
-        Me.grpResults = New System.Windows.Forms.GroupBox()
+        Me.txtStockSearchStocks = New System.Windows.Forms.TextBox()
+        Me.btnSearchStocks = New System.Windows.Forms.Button()
+        Me.grpResultsStocks = New System.Windows.Forms.GroupBox()
         Me.SuspendLayout()
         '
-        'txtStockSearch
+        'txtStockSearchStocks
         '
-        Me.txtStockSearch.Location = New System.Drawing.Point(13, 13)
-        Me.txtStockSearch.Name = "txtStockSearch"
-        Me.txtStockSearch.Size = New System.Drawing.Size(197, 20)
-        Me.txtStockSearch.TabIndex = 0
+        Me.txtStockSearchStocks.Location = New System.Drawing.Point(13, 13)
+        Me.txtStockSearchStocks.Name = "txtStockSearchStocks"
+        Me.txtStockSearchStocks.Size = New System.Drawing.Size(197, 20)
+        Me.txtStockSearchStocks.TabIndex = 0
         '
-        'btnSearch
+        'btnSearchStocks
         '
-        Me.btnSearch.Location = New System.Drawing.Point(216, 13)
-        Me.btnSearch.Name = "btnSearch"
-        Me.btnSearch.Size = New System.Drawing.Size(75, 23)
-        Me.btnSearch.TabIndex = 1
-        Me.btnSearch.Text = "Search Stock"
-        Me.btnSearch.UseVisualStyleBackColor = True
+        Me.btnSearchStocks.Location = New System.Drawing.Point(216, 13)
+        Me.btnSearchStocks.Name = "btnSearchStocks"
+        Me.btnSearchStocks.Size = New System.Drawing.Size(75, 23)
+        Me.btnSearchStocks.TabIndex = 1
+        Me.btnSearchStocks.Text = "Search Stock"
+        Me.btnSearchStocks.UseVisualStyleBackColor = True
         '
-        'grpResults
+        'grpResultsStocks
         '
-        Me.grpResults.Location = New System.Drawing.Point(13, 54)
-        Me.grpResults.Name = "grpResults"
-        Me.grpResults.Size = New System.Drawing.Size(278, 116)
-        Me.grpResults.TabIndex = 2
-        Me.grpResults.TabStop = False
-        Me.grpResults.Text = "Results"
+        Me.grpResultsStocks.Location = New System.Drawing.Point(13, 54)
+        Me.grpResultsStocks.Name = "grpResultsStocks"
+        Me.grpResultsStocks.Size = New System.Drawing.Size(278, 116)
+        Me.grpResultsStocks.TabIndex = 2
+        Me.grpResultsStocks.TabStop = False
+        Me.grpResultsStocks.Text = "Results"
         '
         'frmStock
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(296, 178)
-        Me.Controls.Add(Me.grpResults)
-        Me.Controls.Add(Me.btnSearch)
-        Me.Controls.Add(Me.txtStockSearch)
+        Me.Controls.Add(Me.grpResultsStocks)
+        Me.Controls.Add(Me.btnSearchStocks)
+        Me.Controls.Add(Me.txtStockSearchStocks)
         Me.Name = "frmStock"
         Me.Text = "Stocks"
         Me.ResumeLayout(False)
@@ -67,7 +67,7 @@ Partial Class frmStock
 
     End Sub
 
-    Friend WithEvents txtStockSearch As TextBox
-    Friend WithEvents btnSearch As Button
-    Friend WithEvents grpResults As GroupBox
+    Friend WithEvents txtStockSearchStocks As TextBox
+    Friend WithEvents btnSearchStocks As Button
+    Friend WithEvents grpResultsStocks As GroupBox
 End Class
