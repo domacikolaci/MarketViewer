@@ -9,3 +9,6 @@ E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.vbpr
 E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
 E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
 E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmAbout.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmCrypto.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmStock.resources
