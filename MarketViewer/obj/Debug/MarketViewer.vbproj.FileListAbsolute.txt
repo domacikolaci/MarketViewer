@@ -46,3 +46,7 @@ S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\Mark
 S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.Resources.resources
 S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmStock.resources
 S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.vbproj.GenerateResource.Cache
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe.config
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb

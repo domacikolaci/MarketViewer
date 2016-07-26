@@ -1,6 +1,6 @@
 ﻿'Project - MarketViewer
 'Author - Adam "domacikolaci" Knezevic
-'Last modified - Adam Knezevic 25/07/2016
+'Last modified - Adam Knezevic 26/07/2016
 
 ''' <summary>
 ''' TODO
