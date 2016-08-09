@@ -3,6 +3,7 @@ Imports Newtonsoft.Json.Linq
 
 ''' <summary>
 ''' Global moduel for JSON code
+''' Currently only working/setup for BTC JSON
 ''' </summary>
 Module Module1
     'Declaring JSON "id's" for Bitcoin
