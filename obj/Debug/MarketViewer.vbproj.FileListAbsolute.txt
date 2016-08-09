@@ -1,0 +1,92 @@
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe.config
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.pdb
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.xml
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.vbprojResolveAssemblyReference.cache
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmMain.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.Resources.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.vbproj.GenerateResource.Cache
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmAbout.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmCrypto.resources
+E:\Programing\schoolVBShit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmStock.resources
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe.config
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.exe
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.xml
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.pdb
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.pdb
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.xml
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.vbprojResolveAssemblyReference.cache
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmAbout.resources
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmCrypto.resources
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmMain.resources
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.Resources.resources
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmStock.resources
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.vbproj.GenerateResource.Cache
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.dll
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.pdb
+X:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.xml
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe.config
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.exe
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.xml
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.xml
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.dll
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.pdb
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.xml
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.vbprojResolveAssemblyReference.cache
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmAbout.resources
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmCrypto.resources
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmMain.resources
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.Resources.resources
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmStock.resources
+S:\2016\Year 12\Adam Knezevic\VB\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.vbproj.GenerateResource.Cache
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe.config
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
+C:\Users\Adam\Documents\GitHub\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe.config
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.exe
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.xml
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.xml
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.pdb
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\bin\Debug\Newtonsoft.Json.xml
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.vbprojResolveAssemblyReference.cache
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmAbout.resources
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmCrypto.resources
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmMain.resources
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.Resources.resources
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.frmStock.resources
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.vbproj.GenerateResource.Cache
+X:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe.config
+X:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.exe
+X:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.xml
+X:\2016\Year 12\Adam Knezevic\VB\marketViewer01082016\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe.config
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\bin\Debug\MarketViewer.xml
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\bin\Debug\Newtonsoft.Json.pdb
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\bin\Debug\Newtonsoft.Json.xml
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.vbprojResolveAssemblyReference.cache
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmAbout.resources
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmCrypto.resources
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmMain.resources
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.Resources.resources
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.frmStock.resources
+S:\2016\Year 12\Adam Knezevic\VB\VSGit\MarketViewer\MarketViewer\obj\Debug\MarketViewer.vbproj.GenerateResource.Cache
+E:\Programing\MarketViewer\MarketViewer\bin\Debug\MarketViewer.exe.config
+E:\Programing\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
+E:\Programing\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
+E:\Programing\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb
