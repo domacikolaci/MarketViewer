@@ -23,16 +23,17 @@ Partial Class frmMain
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.grpStock1 = New System.Windows.Forms.GroupBox()
+        Me.lblStock1 = New System.Windows.Forms.Label()
         Me.grpStock2 = New System.Windows.Forms.GroupBox()
+        Me.lblStock2 = New System.Windows.Forms.Label()
         Me.grpStock3 = New System.Windows.Forms.GroupBox()
+        Me.lblStock3 = New System.Windows.Forms.Label()
         Me.grpStock4 = New System.Windows.Forms.GroupBox()
+        Me.lblStock4 = New System.Windows.Forms.Label()
         Me.btnStocks = New System.Windows.Forms.Button()
         Me.btnCrypto = New System.Windows.Forms.Button()
         Me.btnAbout = New System.Windows.Forms.Button()
-        Me.lblStock1 = New System.Windows.Forms.Label()
-        Me.lblStock4 = New System.Windows.Forms.Label()
-        Me.lblStock3 = New System.Windows.Forms.Label()
-        Me.lblStock2 = New System.Windows.Forms.Label()
+        Me.lblStock1Name = New System.Windows.Forms.Label()
         Me.grpStock1.SuspendLayout()
         Me.grpStock2.SuspendLayout()
         Me.grpStock3.SuspendLayout()
@@ -41,6 +42,7 @@ Partial Class frmMain
         '
         'grpStock1
         '
+        Me.grpStock1.Controls.Add(Me.lblStock1Name)
         Me.grpStock1.Controls.Add(Me.lblStock1)
         Me.grpStock1.Location = New System.Drawing.Point(12, 12)
         Me.grpStock1.Name = "grpStock1"
@@ -48,6 +50,15 @@ Partial Class frmMain
         Me.grpStock1.TabIndex = 0
         Me.grpStock1.TabStop = False
         Me.grpStock1.Text = "Stock1"
+        '
+        'lblStock1
+        '
+        Me.lblStock1.AutoSize = True
+        Me.lblStock1.Location = New System.Drawing.Point(157, 65)
+        Me.lblStock1.Name = "lblStock1"
+        Me.lblStock1.Size = New System.Drawing.Size(34, 13)
+        Me.lblStock1.TabIndex = 0
+        Me.lblStock1.Text = "$0.00"
         '
         'grpStock2
         '
@@ -59,6 +70,15 @@ Partial Class frmMain
         Me.grpStock2.TabStop = False
         Me.grpStock2.Text = "Stock 2"
         '
+        'lblStock2
+        '
+        Me.lblStock2.AutoSize = True
+        Me.lblStock2.Location = New System.Drawing.Point(157, 73)
+        Me.lblStock2.Name = "lblStock2"
+        Me.lblStock2.Size = New System.Drawing.Size(34, 13)
+        Me.lblStock2.TabIndex = 4
+        Me.lblStock2.Text = "$0.00"
+        '
         'grpStock3
         '
         Me.grpStock3.Controls.Add(Me.lblStock3)
@@ -69,6 +89,15 @@ Partial Class frmMain
         Me.grpStock3.TabStop = False
         Me.grpStock3.Text = "Stock 3"
         '
+        'lblStock3
+        '
+        Me.lblStock3.AutoSize = True
+        Me.lblStock3.Location = New System.Drawing.Point(157, 71)
+        Me.lblStock3.Name = "lblStock3"
+        Me.lblStock3.Size = New System.Drawing.Size(34, 13)
+        Me.lblStock3.TabIndex = 3
+        Me.lblStock3.Text = "$0.00"
+        '
         'grpStock4
         '
         Me.grpStock4.Controls.Add(Me.lblStock4)
@@ -78,6 +107,15 @@ Partial Class frmMain
         Me.grpStock4.TabIndex = 1
         Me.grpStock4.TabStop = False
         Me.grpStock4.Text = "Stock 4"
+        '
+        'lblStock4
+        '
+        Me.lblStock4.AutoSize = True
+        Me.lblStock4.Location = New System.Drawing.Point(157, 74)
+        Me.lblStock4.Name = "lblStock4"
+        Me.lblStock4.Size = New System.Drawing.Size(34, 13)
+        Me.lblStock4.TabIndex = 2
+        Me.lblStock4.Text = "$0.00"
         '
         'btnStocks
         '
@@ -106,41 +144,15 @@ Partial Class frmMain
         Me.btnAbout.Text = "About"
         Me.btnAbout.UseVisualStyleBackColor = True
         '
-        'lblStock1
+        'lblStock1Name
         '
-        Me.lblStock1.AutoSize = True
-        Me.lblStock1.Location = New System.Drawing.Point(157, 65)
-        Me.lblStock1.Name = "lblStock1"
-        Me.lblStock1.Size = New System.Drawing.Size(34, 13)
-        Me.lblStock1.TabIndex = 0
-        Me.lblStock1.Text = "$0.00"
-        '
-        'lblStock4
-        '
-        Me.lblStock4.AutoSize = True
-        Me.lblStock4.Location = New System.Drawing.Point(157, 74)
-        Me.lblStock4.Name = "lblStock4"
-        Me.lblStock4.Size = New System.Drawing.Size(34, 13)
-        Me.lblStock4.TabIndex = 2
-        Me.lblStock4.Text = "$0.00"
-        '
-        'lblStock3
-        '
-        Me.lblStock3.AutoSize = True
-        Me.lblStock3.Location = New System.Drawing.Point(157, 71)
-        Me.lblStock3.Name = "lblStock3"
-        Me.lblStock3.Size = New System.Drawing.Size(34, 13)
-        Me.lblStock3.TabIndex = 3
-        Me.lblStock3.Text = "$0.00"
-        '
-        'lblStock2
-        '
-        Me.lblStock2.AutoSize = True
-        Me.lblStock2.Location = New System.Drawing.Point(157, 73)
-        Me.lblStock2.Name = "lblStock2"
-        Me.lblStock2.Size = New System.Drawing.Size(34, 13)
-        Me.lblStock2.TabIndex = 4
-        Me.lblStock2.Text = "$0.00"
+        Me.lblStock1Name.AutoSize = True
+        Me.lblStock1Name.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblStock1Name.Location = New System.Drawing.Point(139, 16)
+        Me.lblStock1Name.Name = "lblStock1Name"
+        Me.lblStock1Name.Size = New System.Drawing.Size(77, 25)
+        Me.lblStock1Name.TabIndex = 1
+        Me.lblStock1Name.Text = "Label1"
         '
         'frmMain
         '
@@ -179,4 +191,5 @@ Partial Class frmMain
     Friend WithEvents lblStock2 As Label
     Friend WithEvents lblStock3 As Label
     Friend WithEvents lblStock4 As Label
+    Friend WithEvents lblStock1Name As Label
 End Class

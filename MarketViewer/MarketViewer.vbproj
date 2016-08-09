@@ -75,10 +75,10 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="about.Designer.vb">
-      <DependentUpon>about.vb</DependentUpon>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
     </Compile>
-    <Compile Include="about.vb">
+    <Compile Include="AboutBox1.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="crypto.Designer.vb">
@@ -118,8 +118,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="about.resx">
-      <DependentUpon>about.vb</DependentUpon>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="crypto.resx">
       <DependentUpon>crypto.vb</DependentUpon>

@@ -22,6 +22,5 @@ Public Class frmMain
     Private Sub btnAbout_Click(sender As Object, e As EventArgs) Handles btnAbout.Click
         'Load frmAbout
         frmAbout.Show()
-        Me.Close()
     End Sub
 End Class
