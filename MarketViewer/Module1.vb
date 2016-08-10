@@ -63,7 +63,6 @@ Module Module1
             Dim result = JsonConvert.DeserializeObject(Of List(Of btcJSON))(obj)
             For Each value As btcJSON In result
                 'NEED TO TALK TO MITCHEL ABOUT THIS BIT AY
-                'REF TO JSON SHEET!!!!!
             Next value
         Catch ex As NullReferenceException
             MsgBox("File is empty", vbInformation, "Information")
