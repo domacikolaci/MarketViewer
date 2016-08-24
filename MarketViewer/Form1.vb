@@ -23,4 +23,9 @@ Public Class frmMain
         'Load frmAbout
         frmAbout.Show()
     End Sub
+
+    Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Loads json sub from moduel1
+        json()
+    End Sub
 End Class

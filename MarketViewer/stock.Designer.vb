@@ -29,7 +29,7 @@ Partial Class frmStock
         '
         'txtStockSearchStocks
         '
-        Me.txtStockSearchStocks.Location = New System.Drawing.Point(13, 13)
+        Me.txtStockSearchStocks.Location = New System.Drawing.Point(12, 16)
         Me.txtStockSearchStocks.Name = "txtStockSearchStocks"
         Me.txtStockSearchStocks.Size = New System.Drawing.Size(197, 20)
         Me.txtStockSearchStocks.TabIndex = 0

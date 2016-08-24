@@ -62,7 +62,7 @@ Module Module1
             obj = System.IO.File.ReadAllText("btc.json")
             Dim result = JsonConvert.DeserializeObject(Of List(Of btcJSON))(obj)
             For Each value As btcJSON In result
-                'NEED TO TALK TO MITCHEL ABOUT THIS BIT AY
+                'NEED TO TALK TO MITCHEL ABOUT THIS BIT AY 
             Next value
         Catch ex As NullReferenceException
             MsgBox("File is empty", vbInformation, "Information")

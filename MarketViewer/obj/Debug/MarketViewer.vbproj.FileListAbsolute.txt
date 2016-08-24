@@ -94,3 +94,7 @@ S:\2016\Year 12\Adam Knezevic\VB\git\GITHUB\MarketViewer\MarketViewer\bin\Debug\
 S:\2016\Year 12\Adam Knezevic\VB\git\GITHUB\MarketViewer\MarketViewer\obj\Debug\MarketViewer.exe
 S:\2016\Year 12\Adam Knezevic\VB\git\GITHUB\MarketViewer\MarketViewer\obj\Debug\MarketViewer.xml
 S:\2016\Year 12\Adam Knezevic\VB\git\GITHUB\MarketViewer\MarketViewer\obj\Debug\MarketViewer.pdb
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer160816\MarketViewer-master\MarketViewer\bin\Debug\MarketViewer.exe.config
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer160816\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.exe
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer160816\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.xml
+S:\2016\Year 12\Adam Knezevic\VB\marketViewer160816\MarketViewer-master\MarketViewer\obj\Debug\MarketViewer.pdb

@@ -22,7 +22,8 @@ Partial Class frmMain
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.grpStock1 = New System.Windows.Forms.GroupBox()
+        Me.grpBTC = New System.Windows.Forms.GroupBox()
+        Me.lblBTC = New System.Windows.Forms.Label()
         Me.lblStock1 = New System.Windows.Forms.Label()
         Me.grpStock2 = New System.Windows.Forms.GroupBox()
         Me.lblStock2 = New System.Windows.Forms.Label()
@@ -33,28 +34,36 @@ Partial Class frmMain
         Me.btnStocks = New System.Windows.Forms.Button()
         Me.btnCrypto = New System.Windows.Forms.Button()
         Me.btnAbout = New System.Windows.Forms.Button()
-        Me.lblStock1Name = New System.Windows.Forms.Label()
-        Me.grpStock1.SuspendLayout()
+        Me.grpBTC.SuspendLayout()
         Me.grpStock2.SuspendLayout()
         Me.grpStock3.SuspendLayout()
         Me.grpStock4.SuspendLayout()
         Me.SuspendLayout()
         '
-        'grpStock1
+        'grpBTC
         '
-        Me.grpStock1.Controls.Add(Me.lblStock1Name)
-        Me.grpStock1.Controls.Add(Me.lblStock1)
-        Me.grpStock1.Location = New System.Drawing.Point(12, 12)
-        Me.grpStock1.Name = "grpStock1"
-        Me.grpStock1.Size = New System.Drawing.Size(363, 137)
-        Me.grpStock1.TabIndex = 0
-        Me.grpStock1.TabStop = False
-        Me.grpStock1.Text = "Stock1"
+        Me.grpBTC.Controls.Add(Me.lblBTC)
+        Me.grpBTC.Controls.Add(Me.lblStock1)
+        Me.grpBTC.Location = New System.Drawing.Point(12, 12)
+        Me.grpBTC.Name = "grpBTC"
+        Me.grpBTC.Size = New System.Drawing.Size(363, 137)
+        Me.grpBTC.TabIndex = 0
+        Me.grpBTC.TabStop = False
+        '
+        'lblBTC
+        '
+        Me.lblBTC.AutoSize = True
+        Me.lblBTC.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblBTC.Location = New System.Drawing.Point(137, 16)
+        Me.lblBTC.Name = "lblBTC"
+        Me.lblBTC.Size = New System.Drawing.Size(54, 25)
+        Me.lblBTC.TabIndex = 1
+        Me.lblBTC.Text = "BTC"
         '
         'lblStock1
         '
         Me.lblStock1.AutoSize = True
-        Me.lblStock1.Location = New System.Drawing.Point(157, 65)
+        Me.lblStock1.Location = New System.Drawing.Point(148, 64)
         Me.lblStock1.Name = "lblStock1"
         Me.lblStock1.Size = New System.Drawing.Size(34, 13)
         Me.lblStock1.TabIndex = 0
@@ -144,16 +153,6 @@ Partial Class frmMain
         Me.btnAbout.Text = "About"
         Me.btnAbout.UseVisualStyleBackColor = True
         '
-        'lblStock1Name
-        '
-        Me.lblStock1Name.AutoSize = True
-        Me.lblStock1Name.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblStock1Name.Location = New System.Drawing.Point(139, 16)
-        Me.lblStock1Name.Name = "lblStock1Name"
-        Me.lblStock1Name.Size = New System.Drawing.Size(77, 25)
-        Me.lblStock1Name.TabIndex = 1
-        Me.lblStock1Name.Text = "Label1"
-        '
         'frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -165,11 +164,11 @@ Partial Class frmMain
         Me.Controls.Add(Me.grpStock4)
         Me.Controls.Add(Me.grpStock3)
         Me.Controls.Add(Me.grpStock2)
-        Me.Controls.Add(Me.grpStock1)
+        Me.Controls.Add(Me.grpBTC)
         Me.Name = "frmMain"
         Me.Text = "Market Viewer"
-        Me.grpStock1.ResumeLayout(False)
-        Me.grpStock1.PerformLayout()
+        Me.grpBTC.ResumeLayout(False)
+        Me.grpBTC.PerformLayout()
         Me.grpStock2.ResumeLayout(False)
         Me.grpStock2.PerformLayout()
         Me.grpStock3.ResumeLayout(False)
@@ -180,7 +179,7 @@ Partial Class frmMain
 
     End Sub
 
-    Friend WithEvents grpStock1 As GroupBox
+    Friend WithEvents grpBTC As GroupBox
     Friend WithEvents grpStock2 As GroupBox
     Friend WithEvents grpStock3 As GroupBox
     Friend WithEvents grpStock4 As GroupBox
@@ -191,5 +190,5 @@ Partial Class frmMain
     Friend WithEvents lblStock2 As Label
     Friend WithEvents lblStock3 As Label
     Friend WithEvents lblStock4 As Label
-    Friend WithEvents lblStock1Name As Label
+    Friend WithEvents lblBTC As Label
 End Class
